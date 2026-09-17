@@ -1,3 +1,9 @@
+/*
+for documentation use MDN web docs => url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+and 
+TC39 ecma => url: https://tc39.es/ecma262/
+*/
+
 /* 
 Vars in JavaScript
 
